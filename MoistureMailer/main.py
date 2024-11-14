@@ -5,8 +5,8 @@ import machine
 from machine import Pin
 
 # Wi-Fi details
-ssid = 'Room-301'
-password = 'etrx@301'
+ssid = 'YOUR_WIFI_SSID'
+password = 'YOUR_WIFI_PASSWORD'
 
 # Email details
 sender_email = 'YOUR_EMAIL'
