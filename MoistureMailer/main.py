@@ -9,9 +9,9 @@ ssid = 'Room-301'
 password = 'etrx@301'
 
 # Email details
-sender_email = 'shivani.music.tech.24@gmail.com'
-sender_name = 'Shivani'
-sender_app_password ='auxx hxxt tyok chul'
+sender_email = 'YOUR_EMAIL'
+sender_name = 'NAME_OF_THE EMAIL_ACCOUNT_HOLDER'
+sender_app_password ='YOUR_APP_PASSWORD'  #found in the account settings
 recipient_email = 'shivani.gbhat@gmail.com'
 email_subject = 'Soil Moisture'
 
